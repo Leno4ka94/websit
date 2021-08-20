@@ -233,7 +233,7 @@ h1, h2, h3, h4, h5, h6 {
   margin: 20px 0px 40px 0px;
 }
 .skills .items__rectangle-design {
-  background: url("../img/rectangle.png");
+  background: url("img/rectangle.png");
   width: 366px;
   height: 5px;
   position: absolute;
@@ -263,7 +263,7 @@ h1, h2, h3, h4, h5, h6 {
   }
 }
 .skills .items__rectangle-web {
-  background: url("../img/rectangle.png");
+  background: url("img/rectangle.png");
   width: 424px;
   height: 5px;
   position: absolute;
@@ -293,7 +293,7 @@ h1, h2, h3, h4, h5, h6 {
   }
 }
 .skills .items__rectangle-marketing {
-  background: url("../img/rectangle.png");
+  background: url("img/rectangle.png");
   width: 272px;
   height: 5px;
   position: absolute;
